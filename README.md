@@ -1,4 +1,4 @@
-<img align="center" src="https://img.freepik.com/premium-photo/cartoon-business-woman-working-laptop-modern-office-photo_960396-940984.jpg?semt=ais_hybrid" height="300" width="400" />
+<img align="center" src="https://img.freepik.com/premium-photo/cartoon-business-woman-working-laptop-modern-office-photo_960396-940984.jpg?semt=ais_hybrid" height="300" width="400" margin-left="300"/>
 <h1 align="center">Hi 👋, I'm Krati Agarwal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
