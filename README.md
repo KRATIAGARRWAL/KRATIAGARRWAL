@@ -1,3 +1,4 @@
+<img align="center" src="https://img.freepik.com/premium-photo/cartoon-business-woman-working-laptop-modern-office-photo_960396-940984.jpg?semt=ais_hybrid" height="30" width="40" />
 <h1 align="center">Hi 👋, I'm Krati Agarwal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -13,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krati-agarwal-32958224a" target="blank"><img align="center" src="https://img.freepik.com/premium-photo/cartoon-business-woman-working-laptop-modern-office-photo_960396-940984.jpg?semt=ais_hybrid" alt="krati-agarwal-32958224a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krati-agarwal-32958224a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krati-agarwal-32958224a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/krati93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krati93" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/krati_agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="krati_agarwal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kratiagarwal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kratiagarwal1" height="30" width="40" /></a>
